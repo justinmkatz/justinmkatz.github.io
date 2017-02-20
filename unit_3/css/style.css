@@ -1,0 +1,34 @@
+body {
+	background: "images/steph_kp";
+	background-size: cover;
+	text-align: center;
+	font-family: Helvetica;
+
+h1 {
+	color: 1C2CFF
+	font-style: bold
+	font-size: 250%
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 {
+   font-size: 200%;
+   color:FF3D3d;
+    text-decoration: underline;
+}
+}
+
+p {
+  font-size: 100%
+  color:9AFFA9;
+}
+
+
+#slogan {
+	font-style: italic;
+}
+
+hr {
+	width: 200px;
+}
