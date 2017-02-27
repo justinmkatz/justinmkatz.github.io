@@ -1,7 +1,6 @@
 body {
-	background-image: url(/images/steph_kp);
+	background-image: url(../images/steph_kp);
 	background-size: cover;
-	background-color: black;
 	font-family: Helvetica;
 }
 h1 {
