@@ -1,5 +1,5 @@
 body {
-	background: url(../"images/steph_kp.jpg");
+	background: url("/images/steph_kp.jpg");
 	background-size: cover;
 }
 h1 {
