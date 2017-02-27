@@ -1,5 +1,6 @@
 body {
-	font-family: Helvetica;
+	background-image: url(../"images/steph_kp.jpg");
+	background-size: cover;
 }
 h1 {
 	color: white;
@@ -10,9 +11,5 @@ h1 {
 p {
 	font-size: 100%;
 	color: white;
-}
-html {
-	background-image: url(/"images/steph_kp.jpg");
-	background-size: cover;
 }
 
