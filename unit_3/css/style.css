@@ -1,7 +1,6 @@
 body {
 	background: url("../images/steph_kp");
 	background-size: cover;
-	text-align: center;
 	font-family: Helvetica;
 }
 h1 {
@@ -18,7 +17,7 @@ h2 {
 }
 p {
 	font-size: 100%;
-	color:#9AFFA9;
+	color:#000000;
 }
 #slogan {
 	font-style: italic;
