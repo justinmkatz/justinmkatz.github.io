@@ -1,8 +1,6 @@
 body {
-	background: 
-	url("../images/steph_kp");
+	background: url(/images/steph_kp);
 	background-size: cover;
-	text-align: left;
 	font-family: Helvetica;
 }
 h1 {
@@ -13,12 +11,12 @@ h1 {
 }
 h2 {
 	font-size: 200%;
-	color:#FF3D3d;
+	color:#whte;
 	text-decoration: underline;
 }
 p {
 	font-size: 100%;
-	color:white;
+	color: white;
 }
 
 
