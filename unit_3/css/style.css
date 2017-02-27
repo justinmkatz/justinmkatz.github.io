@@ -1,15 +1,14 @@
 body {
-	background: url(/images/steph_kp);
+	background: url("../images/steph_kp");
 	background-size: cover;
 	text-align: left;
 	font-family: Helvetica;
 }
 h1 {
-	color: #1C2CFF;
+	color: white;
 	font-style: bold;
 	font-size: 250%;
 	text-decoration: underline;
-	text-transform: uppercase;
 }
 h2 {
 	font-size: 200%;
@@ -18,11 +17,7 @@ h2 {
 }
 p {
 	font-size: 100%;
-	color:#000000;
+	color:white;
 }
-#slogan {
-	font-style: italic;
-}
-hr {
-	width: 200px;
-}
+
+
