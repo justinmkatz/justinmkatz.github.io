@@ -1,3 +1,23 @@
+h2 {
+	font-family: 'Shrikhand', cursive;
+}
+.logo {
+	font-family: 'Shrikhand', cursive;
+	font-size: 3.5em;
+}
+p {
+	font-family: 'Gentium Basic', serif;
+}
+nav {
+	font-family: 'Gentium Basic', serif;
+}
+figcaption {
+	font-family: 'Gentium Basic', serif;
+}
+a {
+	font-family: 'Gentium Basic', serif;
+}
+
 * { margin:0; padding:0; box-sizing:border-box;}
 body {
 	color:#222;
@@ -16,6 +36,7 @@ figure img {
 	width:100%;
 }
 h1 {
+	font-family: 'Contrail One', cursive;
 	font-weight:700;
 	font-size: 2em;
 	width: 20em;
