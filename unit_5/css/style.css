@@ -1,5 +1,13 @@
+header {
+	background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+    background-color: #FFED74
+}
 h2 {
 	font-family: 'Shrikhand', cursive;
+	border: 1px black solid;
+    padding: 20px;
 }
 .logo {
 	font-family: 'Shrikhand', cursive;
@@ -10,6 +18,9 @@ p {
 }
 nav {
 	font-family: 'Gentium Basic', serif;
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
 }
 figcaption {
 	font-family: 'Gentium Basic', serif;
@@ -28,6 +39,9 @@ body {
 }
 section {
 	padding:5em 0;
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
 figure {
     width: 25%;
@@ -51,4 +65,12 @@ span {
 	color:#fff;
 	height: 90vh;
 	padding: 5em 0 0 5em;
+}
+footer {
+	text-align: center;
+	padding: 1.5em 0;
+	background-color: #FF957E
+}
+#wrapper {
+	background-color: #E89C6C;
 }
