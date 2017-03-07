@@ -1,8 +1,27 @@
-header {
-	background-color: [enter color here];
-    border: 1px black solid;
+@import url('https://fonts.googleapis.com/css?family=Contrail+One|Gentium+Basic|Shrikhand');
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	color:#222;
+	font-family: 'Gentium Basic', serif;
+	font-size:16px;
+	font-weight:400;
+	line-height:1.5;
+}
+section {
+	padding:5em 0;
+	background-color: #FFE2B8;
+	border: 1px black solid;
     padding: 20px;
-    background-color: #FFED74
+}
+header {
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FFED74;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
 }
 h2 {
 	font-family: 'Shrikhand', cursive;
@@ -14,34 +33,7 @@ h2 {
 	font-size: 3.5em;
 }
 p {
-	font-family: 'Gentium Basic', serif;
-}
-nav {
-	font-family: 'Gentium Basic', serif;
-	background-color: #E8C66A;
-	border: 1px black solid;
-    padding: 20px;
-}
-figcaption {
-	font-family: 'Gentium Basic', serif;
-}
-a {
-	font-family: 'Gentium Basic', serif;
-}
-
-* { margin:0; padding:0; box-sizing:border-box;}
-body {
-	color:#222;
-	font-family:helvetica, arial, sans-serif;
-	font-size:16px;
-	font-weight:400;
-	line-height:1.5;
-}
-section {
-	padding:5em 0;
-	background-color: #FFE2B8;
-	border: 1px black solid;
-    padding: 20px;
+	margin-top:1em;
 }
 figure {
     width: 25%;
@@ -70,7 +62,4 @@ footer {
 	text-align: center;
 	padding: 1.5em 0;
 	background-color: #FF957E
-}
-#wrapper {
-	background-color: #E89C6C;
 }
