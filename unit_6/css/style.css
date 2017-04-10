@@ -7,28 +7,7 @@ body {
 	font-weight:400;
 	line-height:1.5;
 }
-section {
-	padding:5em 0;
-	background-color: #FFE2B8;
-	border: 1px black solid;
-    padding: 20px;
-}
-header {
-<<<<<<< HEAD:unit_6/css/style.css
-	background-color: [enter color here];
-    padding: 20px;
-    background-color: #FFDD1D
-=======
-	border: 1px black solid;
-	padding: 20px;
-	background-color: #FFED74;
-}
-nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
-    padding: 20px;
->>>>>>> origin/master:unit_5/css/style.css
-}
+
 h2 {
 	font-family: 'Shrikhand', cursive;
 }
@@ -37,7 +16,6 @@ h2 {
 	font-size: 3.5em;
 }
 p {
-<<<<<<< HEAD:unit_6/css/style.css
 	font-family: 'Gentium Basic', serif;
 }
 nav {
@@ -48,24 +26,6 @@ figcaption {
 }
 a {
 	font-family: 'Gentium Basic', serif;
-}
-
-* { margin:0; padding:0; box-sizing:border-box;}
-body {
-	color:#222;
-	font-family:helvetica, arial, sans-serif;
-	font-size:16px;
-	font-weight:400;
-	line-height:1.5;
-}
-section {
-	padding:5em 0;
-	background-color: #FFE2B8;
-	border: 1px black solid;
-    padding: 20px;
-=======
-	margin-top:1em;
->>>>>>> origin/master:unit_5/css/style.css
 }
 figure {
     width: 25%;
@@ -95,7 +55,6 @@ footer {
 	padding: 1.5em 0;
 	background-color: #FF957E
 }
-<<<<<<< HEAD:unit_6/css/style.css
 #nba {
 	background-color: #FFB7CF;
     border: 1px black solid;
@@ -125,5 +84,3 @@ footer {
     clear: both;
     height: 0;
 }
-=======
->>>>>>> origin/master:unit_5/css/style.css
