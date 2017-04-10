@@ -1,13 +1,10 @@
 header {
 	background-color: [enter color here];
-    border: 1px black solid;
     padding: 20px;
-    background-color: #FFED74
+    background-color: #FFDD1D
 }
 h2 {
 	font-family: 'Shrikhand', cursive;
-	border: 1px black solid;
-    padding: 20px;
 }
 .logo {
 	font-family: 'Shrikhand', cursive;
@@ -18,9 +15,6 @@ p {
 }
 nav {
 	font-family: 'Gentium Basic', serif;
-	background-color: #E8C66A;
-	border: 1px black solid;
-    padding: 20px;
 }
 figcaption {
 	font-family: 'Gentium Basic', serif;
@@ -71,6 +65,32 @@ footer {
 	padding: 1.5em 0;
 	background-color: #FF957E
 }
-#wrapper {
-	background-color: #E89C6C;
+#nba {
+	background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 33%;
+}
+#duke {
+	background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 33%;
+}
+#concerts {
+	 background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 34%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
